@@ -1,0 +1,24 @@
+{
+  "libraries": [
+    "zmq"
+  ],
+  "include_dirs": [
+    "/content/drive/My Drive/Clothes Transfer/SwapNet/swapnet/include",
+    "zmq/utils",
+    "zmq/backend/cython",
+    "zmq/devices"
+  ],
+  "library_dirs": [
+    "/content/drive/My Drive/Clothes Transfer/SwapNet/swapnet/lib"
+  ],
+  "runtime_library_dirs": [
+    "/content/drive/My Drive/Clothes Transfer/SwapNet/swapnet/lib"
+  ],
+  "extra_link_args": [],
+  "define_macros": [
+    [
+      "HAVE_SYS_UN_H",
+      1
+    ]
+  ]
+}

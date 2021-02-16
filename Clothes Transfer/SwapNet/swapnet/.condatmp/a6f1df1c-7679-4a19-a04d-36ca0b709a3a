@@ -1,0 +1,5 @@
+[Paths]
+Prefix = /content/drive/My Drive/Clothes Transfer/SwapNet/swapnet
+Binaries = /content/drive/My Drive/Clothes Transfer/SwapNet/swapnet/bin
+Libraries = /content/drive/My Drive/Clothes Transfer/SwapNet/swapnet/lib
+Headers = /content/drive/My Drive/Clothes Transfer/SwapNet/swapnet/include/qt
